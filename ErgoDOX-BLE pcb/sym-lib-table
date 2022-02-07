@@ -1,3 +1,5 @@
 (sym_lib_table
-  (lib (name component)(type Legacy)(uri ${KIPRJMOD}/component.lib)(options "")(descr ""))
+  (lib (name "component")(type "Legacy")(uri "${KIPRJMOD}/component.lib")(options "")(descr ""))
+  (lib (name "c0720b001f")(type "KiCad")(uri "${KIPRJMOD}/c0720b001f.kicad_sym")(options "")(descr ""))
+  (lib (name "kbd")(type "KiCad")(uri "${KIPRJMOD}/kbd.kicad_sym")(options "")(descr ""))
 )
