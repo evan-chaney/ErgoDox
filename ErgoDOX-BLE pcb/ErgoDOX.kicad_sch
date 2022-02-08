@@ -5,7 +5,7 @@
   (paper "A3")
 
   (title_block
-    (date "29 sep 2012")
+    (date "2022-02-07")
   )
 
   (lib_symbols
@@ -2851,6 +2851,11 @@
   (text "These resistors should be 145 Ohms for 3.3v" (at 99.695 73.66 180)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 2b4c0ca6-eb68-475b-8b04-f5ed29153c3f)
+  )
+  (text "TODO: Wireless charging circuit, on/off switch for battery"
+    (at 191.77 163.83 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 5c46d0d1-b19a-41ac-a0bc-4a4954853dca)
   )
   (text "Vibration motor circuit. Resistor should be 42 ohms or more"
     (at 299.72 181.61 0)
