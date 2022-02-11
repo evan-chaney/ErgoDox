@@ -2,4 +2,5 @@
   (lib (name "component")(type "Legacy")(uri "${KIPRJMOD}/component.lib")(options "")(descr ""))
   (lib (name "c0720b001f")(type "KiCad")(uri "${KIPRJMOD}/c0720b001f.kicad_sym")(options "")(descr ""))
   (lib (name "kbd")(type "KiCad")(uri "${KIPRJMOD}/kbd.kicad_sym")(options "")(descr ""))
+  (lib (name "dk_Interface-I-O-Expanders")(type "Legacy")(uri "${KIPRJMOD}/digikey-symbols/dk_Interface-I-O-Expanders.lib")(options "")(descr ""))
 )
