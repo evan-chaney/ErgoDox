@@ -4206,7 +4206,7 @@
     (uuid 00000000-0000-0000-0000-00004d92df34)
     (property "Reference" "SW4:13" (id 0) (at 158.75 167.386 0))
     (property "Value" "SW4:0" (id 1) (at 154.94 172.212 0))
-    (property "Footprint" "ErgoDOX pcb:MX_FLIP_XX" (id 2) (at 154.94 170.18 0)
+    (property "Footprint" "ErgoDOX pcb:MX_FLIP_DIODE_HOTSWAP" (id 2) (at 154.94 170.18 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 154.94 170.18 0)
@@ -4476,7 +4476,7 @@
     (uuid 00000000-0000-0000-0000-00004d92dfad)
     (property "Reference" "SW3:13" (id 0) (at 158.75 183.896 0))
     (property "Value" "SW3:0" (id 1) (at 154.94 188.722 0))
-    (property "Footprint" "ErgoDOX pcb:MX_FLIP_XX" (id 2) (at 154.94 186.69 0)
+    (property "Footprint" "ErgoDOX pcb:MX_FLIP_DIODE_HOTSWAP" (id 2) (at 154.94 186.69 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 154.94 186.69 0)
@@ -4512,7 +4512,7 @@
     (uuid 00000000-0000-0000-0000-00004d92dfbb)
     (property "Reference" "SW2:13" (id 0) (at 158.75 200.406 0))
     (property "Value" "SW2:0" (id 1) (at 154.94 205.232 0))
-    (property "Footprint" "ErgoDOX pcb:MX_FLIP_XX" (id 2) (at 154.94 203.2 0)
+    (property "Footprint" "ErgoDOX pcb:MX_FLIP_DIODE_HOTSWAP" (id 2) (at 154.94 203.2 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 154.94 203.2 0)
@@ -4830,7 +4830,7 @@
     (uuid 00000000-0000-0000-0000-00004ffd34d4)
     (property "Reference" "SW5:13" (id 0) (at 158.75 150.876 0))
     (property "Value" "SW5:0" (id 1) (at 154.94 155.702 0))
-    (property "Footprint" "ErgoDOX pcb:MX_FLIP_XX" (id 2) (at 154.94 153.67 0)
+    (property "Footprint" "ErgoDOX pcb:MX_FLIP_DIODE_HOTSWAP" (id 2) (at 154.94 153.67 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 154.94 153.67 0)
@@ -6763,7 +6763,7 @@
       (reference "SW2:12") (unit 1) (value "SW2:1") (footprint "ErgoDOX pcb:MX_FLIP_DIODE_HOTSWAP")
     )
     (path "/00000000-0000-0000-0000-00004d92dfbb"
-      (reference "SW2:13") (unit 1) (value "SW2:0") (footprint "ErgoDOX pcb:MX_FLIP_XX")
+      (reference "SW2:13") (unit 1) (value "SW2:0") (footprint "ErgoDOX pcb:MX_FLIP_DIODE_HOTSWAP")
     )
     (path "/00000000-0000-0000-0000-00004d92df92"
       (reference "SW3:8") (unit 1) (value "SW3:5") (footprint "ErgoDOX pcb:MX_FLIP_DIODE_HOTSWAP")
@@ -6781,7 +6781,7 @@
       (reference "SW3:12") (unit 1) (value "SW3:1") (footprint "ErgoDOX pcb:MX_FLIP_DIODE_HOTSWAP")
     )
     (path "/00000000-0000-0000-0000-00004d92dfad"
-      (reference "SW3:13") (unit 1) (value "SW3:0") (footprint "ErgoDOX pcb:MX_FLIP_XX")
+      (reference "SW3:13") (unit 1) (value "SW3:0") (footprint "ErgoDOX pcb:MX_FLIP_DIODE_HOTSWAP")
     )
     (path "/00000000-0000-0000-0000-00004d92df15"
       (reference "SW4:7") (unit 1) (value "SW4:6") (footprint "ErgoDOX pcb:MX_FLIP_DIODE_HOTSWAP")
@@ -6802,7 +6802,7 @@
       (reference "SW4:12") (unit 1) (value "SW4:1") (footprint "ErgoDOX pcb:MX_FLIP_DIODE_HOTSWAP")
     )
     (path "/00000000-0000-0000-0000-00004d92df34"
-      (reference "SW4:13") (unit 1) (value "SW4:0") (footprint "ErgoDOX pcb:MX_FLIP_XX")
+      (reference "SW4:13") (unit 1) (value "SW4:0") (footprint "ErgoDOX pcb:MX_FLIP_DIODE_HOTSWAP")
     )
     (path "/00000000-0000-0000-0000-00004ffd34f8"
       (reference "SW5:7") (unit 1) (value "SW5:6") (footprint "ErgoDOX pcb:MX_FLIP_DIODE_HOTSWAP")
@@ -6823,7 +6823,7 @@
       (reference "SW5:12") (unit 1) (value "SW5:1") (footprint "ErgoDOX pcb:MX_FLIP_DIODE_HOTSWAP")
     )
     (path "/00000000-0000-0000-0000-00004ffd34d4"
-      (reference "SW5:13") (unit 1) (value "SW5:0") (footprint "ErgoDOX pcb:MX_FLIP_XX")
+      (reference "SW5:13") (unit 1) (value "SW5:0") (footprint "ErgoDOX pcb:MX_FLIP_DIODE_HOTSWAP")
     )
     (path "/ad35f6b8-a74b-4a5d-8f87-06ce33e25a8f"
       (reference "SWRE1") (unit 1) (value "RotaryEncoder_Switch") (footprint "Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm")
