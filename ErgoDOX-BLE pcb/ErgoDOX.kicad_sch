@@ -7100,7 +7100,7 @@
     (property "Reference" "J6" (id 0) (at 242.4773 237.49 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "6PIN" (id 1) (at 242.4773 241.3 0)
+    (property "Value" "3.5mm" (id 1) (at 242.4773 241.3 0)
       (effects (font (size 1.524 1.524)))
     )
     (property "Footprint" "ErgoDOX pcb:4pin35mmAudio" (id 2) (at 245.11 250.19 0)
@@ -8002,7 +8002,7 @@
       (reference "J5") (unit 1) (value "Conn_01x02") (footprint "Connector_PinHeader_2.00mm:PinHeader_1x02_P2.00mm_Vertical")
     )
     (path "/bea7f2ce-f656-49f6-aed6-635d4b2b3bb7"
-      (reference "J6") (unit 1) (value "6PIN") (footprint "ErgoDOX pcb:4pin35mmAudio")
+      (reference "J6") (unit 1) (value "3.5mm") (footprint "ErgoDOX pcb:4pin35mmAudio")
     )
     (path "/131c2f34-19ec-4ccc-8120-2b0363648606"
       (reference "JP1") (unit 1) (value "SolderJumper_2_Open") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm")
