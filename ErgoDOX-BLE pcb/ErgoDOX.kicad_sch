@@ -4247,6 +4247,11 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid e9f6356f-2a06-41a8-89dc-a64d531bffce)
   )
+  (text "TODO:\nAll PADs for Kalih hotswaps need to be opposite side\nHoles for Kalih hotswaps need to be a tiny bit smaller\nAdd notes for the Battery connector: it is easy to put it on with the wrong polarity"
+    (at 344.805 23.495 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid f9a9d330-e67e-45a5-81ee-c07112474f98)
+  )
 
   (label "ROW2" (at 340.36 87.63 0)
     (effects (font (size 1.524 1.524)) (justify left bottom))
