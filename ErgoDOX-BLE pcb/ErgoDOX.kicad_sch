@@ -4247,8 +4247,8 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid e9f6356f-2a06-41a8-89dc-a64d531bffce)
   )
-  (text "TODO:\nAll PADs for Kalih hotswaps need to be opposite side\nHoles for Kalih hotswaps need to be a tiny bit smaller\nAdd notes for the Battery connector: it is easy to put it on with the wrong polarity\nFootprint for the feather and SW 4:10 might be too close"
-    (at 344.805 23.495 0)
+  (text "TODO:\nAll PADs for Kalih hotswaps need to be opposite side\nHoles for Kalih hotswaps need to be a tiny bit smaller\nAdd notes for the Battery connector: it is easy to put it on with the wrong polarity\nFootprint for the feather and SW 4:10 might be too close\nIt would make the code cleaner if the row/col numbers matched pin numbers on the MCP23018\nThe USB header is way too small\nJP23-26 are miswired"
+    (at 339.725 29.21 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid f9a9d330-e67e-45a5-81ee-c07112474f98)
   )
